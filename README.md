@@ -1,2 +1,2 @@
 # ALL-FOR-IT
-Site realizat in cadrul orelor de curs la meteria Site-uri WEB
+Site realizat in cadrul orelor de curs la materia Programarea client-side a site-urilor WEB
